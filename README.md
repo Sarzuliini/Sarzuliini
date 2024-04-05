@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @Sarzuliini
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi I'm Sarzuliini💞️
 
-<!---
-Sarzuliini/Sarzuliini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Tässä kerron teille jotain mielenkiintoista. 
+Olen opetellut koodaamaan vasta muutaman kuukauden ja tuntuu että tästä ei tule yhtään mitään mutta **yritetään**. 
+
+### Tässä on kaikki mitä osaan
+
+- HTML
+- CSS
+
+*osaan ehkä 1% kumpaakin* **hups**
+
+![HAy Dayn pupu](/bunny.jpg)
+ 
+
+
+
