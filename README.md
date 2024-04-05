@@ -10,7 +10,7 @@ Olen opetellut koodaamaan vasta muutaman kuukauden ja tuntuu että tästä ei tu
 
 *osaan ehkä 1% kumpaakin* **hups**
 
-![HAy Dayn pupu](/bunny.jpg)
+
  
 
 
