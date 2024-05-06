@@ -7,8 +7,9 @@ Olen opetellut koodaamaan vasta muutaman kuukauden ja tuntuu että tästä ei tu
 
 - HTML
 - CSS
+- Java Script
 
-*osaan ehkä 1% kumpaakin* **hups**
+*osaan ehkä 10% kumpaakin* **hups**
 
 
  
