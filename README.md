@@ -12,7 +12,7 @@ Olen Valmistunut Ohjelmointikehittäjäksi **JEEEEE**.
 - C#
 - bootstrap
 
-*Osaaminen 95%*
+*Osaaminen 95%* Täyttä kultaa
 
 
  
